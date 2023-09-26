@@ -12,7 +12,7 @@ You have access to 2 files:
 * challenge_test contains only features. You must upload on Discord a csv file in which you fill the Price Column for this data.
 
 ## Results
-For each file I receive, I will compute the **RMSE** score of price prediction, by comparing with the hidden ground truth. The team with the highest score wins!
+For each file I receive, I will compute the **RMSE** score of price prediction, by comparing with the hidden ground truth. The 3 teams with the highest scores win the right to explain their method to the class!
   
 ## Summary of the features in the used car dataset
 
