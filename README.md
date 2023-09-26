@@ -13,7 +13,10 @@ You have access to 2 files:
 
 ## Results
 For each file I receive, I will compute the **RMSE** score of price prediction, by comparing with the hidden ground truth. The 3 teams with the highest scores win the right to explain their method to the class!
-  
+
+## Next step
+If you want, later in the class, you can submit me new files to see if you manage to improve. I will maintain a leaderboard
+
 ## Summary of the features in the used car dataset
 
 | **Feature**                | **Description**                                                                                     |
