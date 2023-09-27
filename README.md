@@ -35,8 +35,9 @@ If you want, later in the class, you can submit me new files to see if you manag
 
 | **Score**                | **R2**                 |    **RMSE**     |
 |----------------------------|--------------|----------------------------|
-| RemyNaiveLinear | 0.074 | 4867.86 |
 | Remy Theoretical Highest possible scores | 0.8766 | 2007 |
+|Chassin1 |0.65 |2992.93 |
+| RemyNaiveLinear | 0.074 | 4867.86 |
 
 * *RemyNaiveLinear* is a naive linear regression on the numerical values, with naive imputation
 * *Remy Theoretical Highest possible scores* is the score obtained by using the generative model itself as a predictor. Due to technical reasons, it might not be possible to actually achieve that score, or maybe to beat it: it is only an approximation...
