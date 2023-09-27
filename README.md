@@ -38,6 +38,7 @@ If you want, later in the class, you can submit me new files to see if you manag
 | Remy Theoretical Highest possible scores | 0.8766 | 2007 |
 |Chassin2 |0.727|2636.55|
 |Chassin1 |0.650 |2992.93 |
+|Hoa_Linh |0.407|3891|
 | RemyNaiveLinear | 0.112 | 4761.18 |
 
 * *RemyNaiveLinear* is a naive linear regression on the numerical values, with naive imputation
