@@ -41,6 +41,8 @@ If you want, later in the class, you can submit me new files to see if you manag
 |Halilali|0.574|3298|
 |Hoa_Linh |0.407|3891|
 | RemyNaiveLinear | 0.112 | 4761.18 |
+|Hamlili_Michaloudi |-0.770|6725|
+|phin|
 
 * *RemyNaiveLinear* is a naive linear regression on the numerical values, with naive imputation
 * *Remy Theoretical Highest possible scores* is the score obtained by using the generative model itself as a predictor. Due to technical reasons, it might not be possible to actually achieve that score, or maybe to beat it: it is only an approximation...
