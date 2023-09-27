@@ -29,3 +29,11 @@ If you want, later in the class, you can submit me new files to see if you manag
 | Accidents History          | Count of the number of accidents the car has been involved in.                                      |
 | Last Service Date          | The date of the car's last service in the YYYY-MM-DD format.                                        |
 | ID                         | An  identifier for each entry in the dataset.|
+
+
+## Leaderboard
+
+| **Score**                | **R2**                 | **RMSE**
+|----------------------------|--------------------------|
+| RemyNaiveLinear | 0.074 | 4867.86
+
