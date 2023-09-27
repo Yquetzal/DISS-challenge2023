@@ -40,7 +40,7 @@ If you want, later in the class, you can submit me new files to see if you manag
 | ElMehdi_xgboost_no_outliers|0.653 |6881.67 |
 | ElMehdi_xgboost_outliers |0.360 | 9068.35|
 | Aida_predicted_pricesAB_V1 |  0.22| 10008.43 |
-| RemyNaiveLinear | 0.074 | 4867.86 |
+| RemyNaiveLinear | 0.112 | 4761.18 |
 
 * *RemyNaiveLinear* is a naive linear regression on the numerical values, with naive imputation
 * *Remy Theoretical Highest possible scores* is the score obtained by using the generative model itself as a predictor. Due to technical reasons, it might not be possible to actually achieve that score, or maybe to beat it: it is only an approximation...
