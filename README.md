@@ -36,4 +36,5 @@ If you want, later in the class, you can submit me new files to see if you manag
 | **Score**                | **R2**                 |    **RMSE**     |
 |----------------------------|--------------|----------------------------|
 | RemyNaiveLinear | 0.074 | 4867.86 |
+| Remy Theoretical Highest scores | 0.8766 | 2007 |
 
