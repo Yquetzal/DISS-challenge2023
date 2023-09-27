@@ -36,8 +36,8 @@ If you want, later in the class, you can submit me new files to see if you manag
 | **Score**                | **R2**                 |    **RMSE**     |
 |----------------------------|--------------|----------------------------|
 | Remy Theoretical Highest possible scores | 0.8766 | 2007 |
+|Chassin1 |0.650 |2992.93 |
 | xgboost_no_outliers|0.653 |6881.67 |
-|Chassin1 |0.65 |2992.93 |
 | xgboost_outliers |0.360 | 9068.35|
 | predicted_pricesAB_V1 |  0.22| 10008.43 |
 | RemyNaiveLinear | 0.074 | 4867.86 |
