@@ -37,6 +37,7 @@ If you want, later in the class, you can submit me new files to see if you manag
 |----------------------------|--------------|----------------------------|
 | Remy Theoretical Highest possible scores | 0.8766 | 2007 |
 |Chassin2 |0.727|2636.55|
+|leGOUGOU_1|0.679|2859.23|
 |Halilali2|0.6502|2989.07|
 |Chassin1 |0.650 |2992.93 |
 |Halilali|0.574|3298|
