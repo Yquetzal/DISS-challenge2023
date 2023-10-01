@@ -37,13 +37,14 @@ If you want, later in the class, you can submit me new files to see if you manag
 |----------------------------|--------------|----------------------------|
 | Remy Theoretical Highest possible scores | 0.8766 | 2007 |
 |Sassi_Marie|0.748|2535.35|
+|Aida5|0.731|2621|
 |Chassin2 |0.727|2636.55|
 |leGOUGOU_1|0.679|2859.23|
 |Halilali2|0.6502|2989.07|
 |Chassin1 |0.650 |2992.93 |
 |Halilali|0.574|3298|
 |Hoa_Linh |0.407|3891|
-|Aida|0.253|4367|
+|Aida1|0.253|4367|
 | RemyNaiveLinear | 0.112 | 4761.18 |
 |Hamlili_Michaloudi |-0.770|6725|
 
