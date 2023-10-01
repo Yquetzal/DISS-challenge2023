@@ -36,6 +36,7 @@ If you want, later in the class, you can submit me new files to see if you manag
 | **Score**                | **R2**                 |    **RMSE**     |
 |----------------------------|--------------|----------------------------|
 | Remy Theoretical Highest possible scores | 0.8766 | 2007 |
+|Sassi_Marie|0.748|2535.35|
 |Chassin2 |0.727|2636.55|
 |leGOUGOU_1|0.679|2859.23|
 |Halilali2|0.6502|2989.07|
